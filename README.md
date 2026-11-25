@@ -53,3 +53,9 @@ Aide à la décision, pas un avis juridique : la NGAP en vigueur sur ameli.fr et
 Une erreur, une situation à ajouter ? [Ouvrez un ticket](https://github.com/baptistemazas-nutrition/cotation/issues).
 
 Conçu par le Dr Baptiste Mazas, endocrinologie, diabétologie et nutrition.
+
+## Propriété intellectuelle
+
+© 2026 Baptiste Mazas, tous droits réservés. L'outil en ligne est libre d'utilisation pour coter vos consultations. Le code, les textes et le design ne peuvent être ni copiés, ni modifiés, ni redistribués, ni exploités commercialement sans mon accord écrit : voir la [licence](LICENSE).
+
+Vous souhaitez développer ce projet avec moi, l'intégrer à votre offre ou obtenir une licence ? Écrivez-moi sur [LinkedIn](https://www.linkedin.com/in/baptiste-mazas-577219182/).
